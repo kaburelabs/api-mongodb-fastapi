@@ -4,7 +4,7 @@
 To run this app follow the below steps:
 
 ### Create a file called *.env* containing DB urls
->DB_URL="mongo link"
+>DB_URL="mongo link"<br>
 >DATABASE_NAME="name of your db"
 
 ### Create the virtual enviroment <br>
